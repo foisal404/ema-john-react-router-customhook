@@ -1,0 +1,45 @@
+.reviewitem{
+    display: flex;
+    border: 2px solid slategray;
+    margin: 20px;
+    align-items: center;
+    width: 571px;
+    border-radius: 10px;
+}
+.reviewitem-img{
+    height: 91px;
+    width: 91px;
+    margin: 8px;
+    
+}
+.reviewitem-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    margin: 8px 0;
+}
+.reviewitem-details{
+    margin: 0 17px;
+    flex-grow: 1;
+}
+.reviewitem-details p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    margin: 8px 0;
+}
+.delate-btn{
+    background-color: #eb5757bc;
+    height: 55px;
+    width: 55px;
+    margin: 0 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-color{
+    color: #EB5757;
+    font-size: 27px;
+    text-align: center;
+}

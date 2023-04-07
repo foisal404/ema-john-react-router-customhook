@@ -8,4 +8,14 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
+    
+}
+.review-btn{
+    background: #FF9900;
+    border-radius: 4px;
+    width: 90%;
+    margin: 10px auto;
+}
+.review-btn a{
+    text-decoration: none;
 }
